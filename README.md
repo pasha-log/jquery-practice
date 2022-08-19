@@ -1,4 +1,4 @@
-# Jquery Practice! 
+# jQuery Practice! 
 
 ## Description 
  
